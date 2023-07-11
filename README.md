@@ -3,6 +3,8 @@
 
 ![Depfu](https://img.shields.io/badge/functionality-pattern-lightgrey)
 
+Swagger: https://reqres.in/api-docs/#/
+
 ### Endpoints implementadas no sistema:
 
 ```
